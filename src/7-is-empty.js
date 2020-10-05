@@ -1,5 +1,4 @@
 //PASS 
-
 export const isEmpty = (stringArrayOrObject) => {
   const type = typeof stringArrayOrObject
 

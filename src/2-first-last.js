@@ -1,5 +1,4 @@
 //PASS
-
 export const firstLast = (items) => {
   if (items.length === 0) {
     return `No items!`
